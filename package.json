@@ -33,5 +33,6 @@
       "react-app",
       "react-app/jest"
     ]
-  }
+  },
+  "homepage": "https://limichange.github.io/caniuse-score"
 }
