@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  max-width: 960px;
+  margin: 123px auto;
+}
+
+ul,
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
